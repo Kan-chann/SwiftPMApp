@@ -1,0 +1,15 @@
+{
+  "originHash" : "25a2f4c3ef6d4c9f3ef680f69bcad9c7abb0c4957dfc9a3eb095530146696beb",
+  "pins" : [
+    {
+      "identity" : "pkhud",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pkluz/PKHUD",
+      "state" : {
+        "revision" : "8fd26f23057c6bebd6695524b1c3e05e93aba571",
+        "version" : "5.4.0"
+      }
+    }
+  ],
+  "version" : 3
+}
